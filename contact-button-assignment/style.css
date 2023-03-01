@@ -1,0 +1,8 @@
+.background {background-color: lightgray; text-align: center}
+
+.button {border-radius: 6px; border: none; margin-top: 10px; padding: 10px; width: 200px ;background-color: darkgray; color:mediumpurple; font-family: 'Roboto Condensed', Sans-Serif; font-size: 15px}
+button:hover {background-color: aliceblue;}
+
+.h1font {font-family: 'Libre Baskerville', Serif;font-size: 30px; font-weight: bold;}
+
+.jour {font-family: 'Ruda', Sans-Serif; font-size: 20px}
