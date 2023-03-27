@@ -1,3 +1,18 @@
 .container-fluid {
-    background-color: aliceblue
+    background-color: #5A7684;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Songti SC', sans-serif; 
+    font-size: 75px ; 
+    color: #F2EAED;
+    font-weight: bold 200px;
+}
+.line {background-color: #6F625D;
+    height: 3px;
+    position: relative;
+    top: -575px;
+    margin-left: 10px;
+    margin-right: 635px;
+ 
+    
 }
