@@ -1,3 +1,4 @@
+@media {
 .container-fluid {
     background-color: #5A7684;
     height: 100vh;
@@ -6,7 +7,31 @@
     font-size: 65px ; 
     color: #F2EAED;
     font-weight: bold 200px;
+    padding-top: 65px;
 }
+.h2 {
+    color: #F2EAED;
+    font-family: 'Songti SC', sans-serif;
+    letter-spacing: 2px;
+    font-size: 35px;
+}
+    
+.h3 {
+    background-color: #F2EAED;
+    font-family: 'Hiragino Mincho ProN', sans-serif;
+    font-size: 20px;
+    color: #5A7684;
+    }
+    
+.h4 {
+    background-color: #F2EAED;
+    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-size: 15px;
+    line-height: 3;
+    color: #5A7684;
+    font-weight: lighter
+}
+    
 .line {background-color: #6F625D;
     height: 3px;
     position: relative;
@@ -14,16 +39,6 @@
     margin-left: 10px;
     margin-right: 635px;
  
-    
-}
-.second-heading {
-    color: #F2EAED;
-    position: absolute;
-    top: 143px;
-    margin-left: 10px;
-    font-family: 'Songti SC', sans-serif;
-    letter-spacing: 2px;
-    font-size: 35px;
 }
 .contact-info {
     color: #F2EAED;
@@ -42,36 +57,26 @@
     font-size: 18px
 }
 .resume-pic {
-margin-right: 10px;
-}
-.button {border-radius: 6px; border: none; margin-top: 10px; padding: 10px; width: 217px ;background-color: #F2EAED; color: #5A7684; font-family: 'Songti SC', sans-serif;; font-size: 15px; position: absolute; top: 260px; margin-left: 10px;}
-button:hover {background-color: aliceblue;}
-
-.experience {
-    background-color: #F2EAED;
-    position: absolute;
-    top: 340px;
-    height: 100vh;
-    width: 100vw;
-    font-family: 'Hiragino Mincho ProN', sans-serif;
-    font-size: 20px;
-    color: #5A7684
-
-    
+    margin-right: 10px;
 }
 
-.jobs {
-    background-color: #F2EAED;
-    height: 100vh;
-    width: 100vw;
-    position: absolute;
-    top: 400px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
-    font-size: 15px;
-    line-height: 3;
-    color: #5A7684;
-    font-weight: lighter
+.button {
+    border-radius: 6px; 
+    border: none; 
+    margin-top: 10px; 
+    padding: 10px; 
+    width: 217px;
+    background-color: #F2EAED; 
+    color: #5A7684; font-family: 'Songti SC', sans-serif;
+    font-size: 15px; 
+    position: absolute; 
+    top: 260px; 
+    margin-left: 10px;}
+
+.button:hover {
+    background-color: aliceblue;
 }
+
 
 .education {
     background-color: #F2EAED;
@@ -138,4 +143,5 @@ button:hover {background-color: aliceblue;}
     border-radius: 500px;
 
     
+}
 }
