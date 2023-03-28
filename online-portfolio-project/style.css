@@ -1,8 +1,6 @@
 @media {
 .container-fluid {
     background-color: #5A7684;
-    height: 100vh;
-    width: 100vw;
     font-family: 'Songti SC', sans-serif; 
     font-size: 65px ; 
     color: #F2EAED;
@@ -32,18 +30,8 @@
     font-weight: lighter
 }
     
-.line {background-color: #6F625D;
-    height: 3px;
-    position: relative;
-    top: -575px;
-    margin-left: 10px;
-    margin-right: 635px;
- 
-}
 .contact-info {
     color: #F2EAED;
-    position: absolute;
-    top: 220px;
     margin-left: 10px;
     font-family: 'Songti SC', sans-serif; 
     font-size: 18px;
@@ -51,8 +39,6 @@
 .email {
     color: #F2EAED;
     font-family: 'Songti SC', sans-serif; 
-    position: absolute;
-    top: 243px;
     margin-left: 10px;
     font-size: 18px
 }
@@ -63,15 +49,13 @@
 .button {
     border-radius: 6px; 
     border: none; 
-    margin-top: 10px; 
     padding: 10px; 
     width: 217px;
     background-color: #F2EAED; 
     color: #5A7684; font-family: 'Songti SC', sans-serif;
     font-size: 15px; 
-    position: absolute; 
-    top: 260px; 
-    margin-left: 10px;}
+    margin:10px 0px 0px 10px;
+    }
 
 .button:hover {
     background-color: aliceblue;
@@ -80,20 +64,13 @@
 
 .education {
     background-color: #F2EAED;
-    position: absolute;
-    top: 340px;
-    right: -500px;
-    width: 100vw;
     font-family: 'Hiragino Mincho ProN', sans-serif;
     font-size: 20px;
     color: #5A7684
 }
 
 .education-specifics {
-     background-color: #F2EAED;
-    position: absolute;
-    top: 400px;
-    right: 335px;
+    background-color: #F2EAED;
     font-family: 'Apple SD Gothic Neo', sans-serif;
     font-size: 15px;
     line-height: 3;
@@ -102,11 +79,7 @@
 }
 
 .skills {
-       background-color: #F2EAED;
-    position: absolute;
-    top: 560px;
-    right: -500px;
-    width: 100vw;
+    background-color: #F2EAED;
     font-family: 'Hiragino Mincho ProN', sans-serif;
     font-size: 20px;
     color: #5A7684
@@ -114,9 +87,6 @@
 
 .skills-specifics {
     background-color: #F2EAED;
-    position: absolute;
-    top: 625px;
-    right: 580px;
     font-family: 'Apple SD Gothic Neo', sans-serif;
     font-size: 15px;
     line-height: 3;
@@ -125,23 +95,15 @@
 }
 
 .foot {
-    background-color: #5A7684;
     font-family: 'Apple SD Gothic Neo', sans-serif;
-    position: absolute;
-    bottom: -420px;
-    width: 100vw;
-    font-style: italic;
-    
-
-}
+    background-color: #5A7684;
+    color:#F2EAED;
+    }
 
 #headshot {
     width: 400px;
-    position: absolute;
-    top: 30px;
-    margin-left: 675px;
     border-radius: 500px;
-
     
 }
+
 }
