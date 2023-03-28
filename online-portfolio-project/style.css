@@ -16,3 +16,30 @@
  
     
 }
+.second-heading {
+    color: #F2EAED;
+    position: absolute;
+    top: 143px;
+    margin-left: 10px;
+    font-family: 'Songti SC', sans-serif;
+    letter-spacing: 2px;
+    font-size: 35px;
+}
+.contact-info {
+    color: #F2EAED;
+    position: absolute;
+    top: 220px;
+    margin-left: 10px;
+    font-family: 'Songti SC', sans-serif; 
+    font-size: 18px;
+}
+.email {
+    color: #F2EAED;
+    font-family: 'Songti SC', sans-serif; 
+    position: absolute;
+    top: 240px;
+    margin-left: 10px;
+    font-size: 18px
+}
+.resume-pic
+margin-right: 10px;
