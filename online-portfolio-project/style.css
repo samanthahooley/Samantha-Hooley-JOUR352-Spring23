@@ -3,7 +3,7 @@
     height: 100vh;
     width: 100vw;
     font-family: 'Songti SC', sans-serif; 
-    font-size: 75px ; 
+    font-size: 65px ; 
     color: #F2EAED;
     font-weight: bold 200px;
 }
@@ -37,9 +37,105 @@
     color: #F2EAED;
     font-family: 'Songti SC', sans-serif; 
     position: absolute;
-    top: 240px;
+    top: 243px;
     margin-left: 10px;
     font-size: 18px
 }
-.resume-pic
+.resume-pic {
 margin-right: 10px;
+}
+.button {border-radius: 6px; border: none; margin-top: 10px; padding: 10px; width: 217px ;background-color: #F2EAED; color: #5A7684; font-family: 'Songti SC', sans-serif;; font-size: 15px; position: absolute; top: 260px; margin-left: 10px;}
+button:hover {background-color: aliceblue;}
+
+.experience {
+    background-color: #F2EAED;
+    position: absolute;
+    top: 340px;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Hiragino Mincho ProN', sans-serif;
+    font-size: 20px;
+    color: #5A7684
+
+    
+}
+
+.jobs {
+    background-color: #F2EAED;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 400px;
+    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-size: 15px;
+    line-height: 3;
+    color: #5A7684;
+    font-weight: lighter
+}
+
+.education {
+    background-color: #F2EAED;
+    position: absolute;
+    top: 340px;
+    right: -500px;
+    width: 100vw;
+    font-family: 'Hiragino Mincho ProN', sans-serif;
+    font-size: 20px;
+    color: #5A7684
+}
+
+.education-specifics {
+     background-color: #F2EAED;
+    position: absolute;
+    top: 400px;
+    right: 335px;
+    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-size: 15px;
+    line-height: 3;
+    color: #5A7684;
+    font-weight: lighter
+}
+
+.skills {
+       background-color: #F2EAED;
+    position: absolute;
+    top: 560px;
+    right: -500px;
+    width: 100vw;
+    font-family: 'Hiragino Mincho ProN', sans-serif;
+    font-size: 20px;
+    color: #5A7684
+}
+
+.skills-specifics {
+    background-color: #F2EAED;
+    position: absolute;
+    top: 625px;
+    right: 580px;
+    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-size: 15px;
+    line-height: 3;
+    color: #5A7684;
+    font-weight: lighter
+}
+
+.foot {
+    background-color: #5A7684;
+    font-family: 'Apple SD Gothic Neo', sans-serif;
+    position: absolute;
+    bottom: -420px;
+    width: 100vw;
+    font-style: italic;
+    
+
+}
+
+#headshot {
+    width: 400px;
+    position: absolute;
+    top: 30px;
+    margin-left: 675px;
+    border-radius: 500px;
+
+    
+}
