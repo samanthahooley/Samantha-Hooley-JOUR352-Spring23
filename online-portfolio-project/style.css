@@ -1,10 +1,10 @@
 @media {
-.container-fluid {
+#topper {
     background-color: #5A7684;
     font-family: 'Songti SC', sans-serif; 
     font-size: 65px ; 
     color: #F2EAED;
-    font-weight: bold 200px;
+    font-weight: bold;
     padding-top: 65px;
 }
 .h2 {
@@ -14,36 +14,21 @@
     font-size: 35px;
 }
     
-.h3 {
-    background-color: #F2EAED;
-    font-family: 'Hiragino Mincho ProN', sans-serif;
-    font-size: 20px;
-    color: #5A7684;
-    }
-    
-.h4 {
+#h4 {
     background-color: #F2EAED;
     font-family: 'Apple SD Gothic Neo', sans-serif;
     font-size: 15px;
     line-height: 3;
     color: #5A7684;
-    font-weight: lighter
-}
+    font-weight: lighter;
+        
+    }
     
-.contact-info {
-    color: #F2EAED;
-    margin-left: 10px;
-    font-family: 'Songti SC', sans-serif; 
-    font-size: 18px;
-}
-.email {
-    color: #F2EAED;
-    font-family: 'Songti SC', sans-serif; 
-    margin-left: 10px;
-    font-size: 18px
-}
-.resume-pic {
-    margin-right: 10px;
+#content {
+    background-color: #F2EAED;
+    font-family: 'Hiragino Mincho ProN', sans-serif;
+    color: #5A7684;
+    padding-top: 10px
 }
 
 .button {
@@ -59,51 +44,31 @@
 
 .button:hover {
     background-color: aliceblue;
-}
 
-
-.education {
-    background-color: #F2EAED;
-    font-family: 'Hiragino Mincho ProN', sans-serif;
-    font-size: 20px;
-    color: #5A7684
-}
-
-.education-specifics {
-    background-color: #F2EAED;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
-    font-size: 15px;
-    line-height: 3;
-    color: #5A7684;
-    font-weight: lighter
-}
-
-.skills {
-    background-color: #F2EAED;
-    font-family: 'Hiragino Mincho ProN', sans-serif;
-    font-size: 20px;
-    color: #5A7684
-}
-
-.skills-specifics {
-    background-color: #F2EAED;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
-    font-size: 15px;
-    line-height: 3;
-    color: #5A7684;
-    font-weight: lighter
 }
 
 .foot {
     font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-style:italic;
     background-color: #5A7684;
     color:#F2EAED;
     }
 
 #headshot {
-    width: 300px;
+    width: 100%;
     border-radius: 500px;
-    
+    padding: 10px;
+    }
 }
 
+.jobtitle {
+    font-weight: bold;
+}
+
+.description {
+    line-height: 1.5;  
+}
+
+.dates{
+    font-weight: bolder
 }
