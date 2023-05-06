@@ -1,0 +1,35 @@
+@media {
+    
+    .lead {
+        width:100%;
+        background-image:url(23brainpic.png);
+    
+    }
+    
+    .topper {
+        background-image:url(23brainpic.png);
+        min-height: 0px;
+    
+    }
+    
+    h1 {
+        padding: 100px 0px 400px 30px;
+        font-family: 'Playfair Display', serif;
+        color:white;
+    
+    }
+    
+
+}
+
+@media (min-width:576px) {
+    
+}
+
+@media (min-width:992px) {
+    
+}
+
+@media (min-width:1200px) {
+    
+}
