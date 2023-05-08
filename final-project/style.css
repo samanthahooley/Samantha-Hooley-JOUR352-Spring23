@@ -9,13 +9,15 @@
     .topper {
         background-image:url(23brainpic.jpeg);
         background-size: cover;
+        background-position: center;
           
     }
     
     h1 {
-        padding: 100px 0px 500px 30px;
+        padding: 80px 40% 500px 30px;
         font-family: 'Playfair Display', serif;
         font-weight: bold;
+        font-size: 50px;
         color:white;
     
     }
@@ -46,6 +48,10 @@
        
     
         
+    }
+    
+    img {
+        width:100%;
     }
 
 
