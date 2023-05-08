@@ -2,25 +2,55 @@
     
     .lead {
         width:100%;
-        background-image:url(23brainpic.png);
+        
     
     }
     
     .topper {
-        background-image:url(23brainpic.png);
-        min-height: 0px;
+        background-image:url(23brainpic.jpeg);
+        background-size: cover;
+        
+        
+        
     
     }
     
     h1 {
-        padding: 100px 0px 400px 30px;
+        padding: 100px 0px 500px 30px;
         font-family: 'Playfair Display', serif;
+        font-weight: bold;
         color:white;
     
     }
     
+    .caption {
+        background-color: #B5BEC6;
+        color:#6A6A6A;
+        font-size:10px;
+    }
+    
+    .writer {
+        font-family: 'Playfair Display', serif;
+        font-size:20px;
+        color:white;
+        text-align: center;
+    }
+    
+    .body {
+        color: black;
+        margin: 0px 300px 0px 300px;
+        font-size: 15px;
+        font-family: 'Playfair Display', serif;
+    }
 
-}
+    .graph {
+        background-color: #B5BEC6;
+        padding: 50px 300px 50px 300px;
+       
+    
+        
+    }
+
 
 @media (min-width:576px) {
     
