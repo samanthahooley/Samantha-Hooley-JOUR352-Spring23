@@ -9,10 +9,7 @@
     .topper {
         background-image:url(23brainpic.jpeg);
         background-size: cover;
-        
-        
-        
-    
+          
     }
     
     h1 {
@@ -31,7 +28,7 @@
     
     .writer {
         font-family: 'Playfair Display', serif;
-        font-size:20px;
+        font-size:30px;
         color:white;
         text-align: center;
     }
@@ -39,7 +36,7 @@
     .body {
         color: black;
         margin: 0px 300px 0px 300px;
-        font-size: 15px;
+        font-size: 20px;
         font-family: 'Playfair Display', serif;
     }
 
