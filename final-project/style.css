@@ -23,7 +23,6 @@
     }
     
     .caption {
-        background-color: #B5BEC6;
         color:#6A6A6A;
         font-size:10px;
     }
@@ -31,7 +30,8 @@
     .writer {
         font-family: 'Playfair Display', serif;
         font-size:30px;
-        color:white;
+        color: #3C6997;
+        background-color: white;
         text-align: center;
     }
     
@@ -40,13 +40,9 @@
         margin: 0px 300px 0px 300px;
         font-size: 20px;
         font-family: 'Playfair Display', serif;
+    
         
         
-    }
-
-    .graph {
-        background-color: #B5BEC6;
-        padding: 50px 300px 50px 300px;
     }
     
     
@@ -102,6 +98,12 @@
         
     }
     
+    .footer {
+        color:#6A6A6A;
+        font-family: 'Raleway', sans-serif;
+        font-style:italic;
+        font-size: 15px;
+    }
 }
 
 @media (min-width:576px) {
