@@ -40,6 +40,8 @@
         margin: 0px 300px 0px 300px;
         font-size: 20px;
         font-family: 'Playfair Display', serif;
+        
+        
     }
 
     .graph {
@@ -54,6 +56,15 @@
         width:100%;
     }
 
+    h2 {
+        font-family: 'Raleway', sans-serif;
+        color:#3C6997;
+        padding: 20px 0px 20px 0px;
+    }
+    
+    p {
+        padding:10px 0px 10px 0px;
+    }
 
 @media (min-width:576px) {
     
