@@ -57,6 +57,7 @@
 
     h2 {
         font-family: 'Raleway', sans-serif;
+        font-weight: bold;
         color:#3C6997;
         padding: 20px 0px 20px 0px;
     }
@@ -64,6 +65,44 @@
     p {
         padding:10px 0px 10px 0px;
     }
+    
+    .pullquote{
+        border-top: 3px solid #3C6997;
+        border-bottom: 3px solid #3C6997;
+        
+        
+        
+    }
+
+    .quotemark {
+        font-size:110px;
+        float:left;
+        font-family:'IM Fell French Canon SC', serif;
+        color: #3C6997;
+        padding: 0px 10px 0px 0px;
+        
+       
+            
+        
+    }
+    
+    .quote {
+        color: #3C6997;
+        font-family:'Raleway', sans-serif;
+        padding: 50px 0px 0px 10px;
+        
+        
+    }
+    
+    .attribution {
+        color: #3C6997;
+        font-family:'Raleway', sans-serif;
+        padding: 0px 0px 0px 277px;
+        font-size: 15px;
+        
+    }
+    
+}
 
 @media (min-width:576px) {
     
