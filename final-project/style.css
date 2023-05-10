@@ -1,16 +1,10 @@
 @media {
     
-    .lead {
-        width:100%;
-        
-    
-    }
     
     .topper {
         background-image:url(23brainpic.jpeg);
         background-size: cover;
-        background-position: center;
-          
+        background-position: center;    
     }
     
     h1 {
@@ -18,8 +12,7 @@
         font-family: 'Playfair Display', serif;
         font-weight: bold;
         font-size: 50px;
-        color:white;
-    
+        color:white; 
     }
     
     .caption {
@@ -36,13 +29,11 @@
     }
     
     .body {
+        background-color: white;
         color: black;
         margin: 0px 300px 0px 300px;
         font-size: 20px;
-        font-family: 'Playfair Display', serif;
-    
-        
-        
+        font-family: 'Playfair Display', serif;  
     }
     
     
@@ -51,6 +42,7 @@
         margin: 10px 0px 10px 110px;
     }
 
+   
     h2 {
         font-family: 'Raleway', sans-serif;
         font-weight: bold;
@@ -58,44 +50,39 @@
         padding: 20px 0px 20px 0px;
     }
     
+    
     p {
         padding:10px 0px 10px 0px;
     }
     
+   
     .pullquote{
         border-top: 3px solid #3C6997;
-        border-bottom: 3px solid #3C6997;
-        
-        
-        
+        border-bottom: 3px solid #3C6997;    
     }
 
+   
     .quotemark {
         font-size:110px;
         float:left;
         font-family:'IM Fell French Canon SC', serif;
         color: #3C6997;
-        padding: 0px 10px 0px 0px;
-        
-       
-            
-        
+        padding: 0px 10px 0px 0px;    
     }
     
+   
     .quote {
         color: #3C6997;
         font-family:'Raleway', sans-serif;
-        padding: 50px 0px 0px 10px;
-        
-        
+        padding: 50px 0px 0px 10px; 
     }
+    
     
     .attribution {
         color: #3C6997;
         font-family:'Raleway', sans-serif;
         padding: 0px 0px 0px 277px;
         font-size: 15px;
-        
     }
     
     .footer {
@@ -106,8 +93,9 @@
     }
 }
 
+
 @media (min-width:576px) {
-    
+  
 }
 
 @media (min-width:992px) {
