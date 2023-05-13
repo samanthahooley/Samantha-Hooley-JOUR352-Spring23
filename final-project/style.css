@@ -56,7 +56,7 @@
     }
     
    
-    .pullquote{
+    .pullquote {
         border-top: 3px solid #3C6997;
         border-bottom: 3px solid #3C6997;    
     }
@@ -96,24 +96,23 @@
 
 @media (min-width:576px) {
     .body {
-        margin: 0px 100px 0px 100px;
-          
+        margin: 0px 100px 0px 100px; 
     }
       h1 {
         padding: 80px 30px 400px 30px;
         font-size: 50px;
     }
-    img {
+      img {
         margin: 10px 0px 10px 110px;
     }
     .attribution {
         padding: 0px 0px 0px 277px;
     }
+}
 
 @media (min-width:992px) {
     .body {
         margin: 0px 200px 0px 200px;
-          
     }
      h1 {
         padding: 80px 40% 500px 30px;
@@ -123,7 +122,6 @@
 
 @media (min-width:1200px) {
     .body {
-        margin: 0px 300px 0px 300px;
-          
+        margin: 0px 300px 0px 300px;    
     }
 }
