@@ -81,7 +81,7 @@
     .attribution {
         color: #3C6997;
         font-family:'Raleway', sans-serif;
-        padding: 10px 0px 0px 277px;
+        padding: 0px 0px 0px 277px;
         font-size: 15px;
     }
     
@@ -104,7 +104,7 @@
         font-size: 50px;
     }
     .quote {
-        padding: 50px 0px 0px 10px; 
+        padding: 50px 0px 0px 60px; 
     }
     img {
         margin: 10px 0px 10px 110px;
